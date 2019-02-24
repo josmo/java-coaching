@@ -1,0 +1,33 @@
+{
+  "page": "5",
+  "off-set": 3,
+  "results": [
+    {
+      "name": "starbucks",
+      "address": {
+        "line1": "123 test",
+        "line2": "b",
+        "city": "NY",
+        "state": "NY"
+      }
+    },
+    {
+      "name": "starbucks1",
+      "address": {
+        "line1": "1 test2",
+        "line2": "b",
+        "city": "Seattle",
+        "state": "WA"
+      }
+    },
+    {
+      "name": "starbucks3",
+      "address": {
+        "line1": "12 weird place",
+        "line2": "b",
+        "city": "Sidney",
+        "state": "OH"
+      }
+    }
+  ]
+}

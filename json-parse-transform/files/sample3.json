@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Party1",
+    "start_time": 1551039270440,
+    "end_time": 1551039297855,
+    "owners" : [
+      {
+        "name": "the party 1 people",
+        "members": [
+          {
+            "name": "john"
+          },
+          {
+            "name": "Fred"
+          },
+          {
+            "name": "Steph"
+          }
+        ]
+      }
+    ],
+    "location": {
+      "line1" : "245 10th st",
+      "city": "NY",
+      "state": "NY",
+      "postal_code": "10003"
+    }
+  },
+  {
+    "name": "Party2",
+    "start_time": 1551039270440,
+    "end_time": 1551039432489,
+    "owners" : [
+      {
+        "name": "the party 2 people",
+        "members": [
+          {
+            "name": "Fred"
+          },
+          {
+            "name": "Steph"
+          }
+        ]
+      }
+    ],
+    "location": {
+      "line1" : "80 10th st",
+      "city": "NY",
+      "state": "NY",
+      "postal_code": "10003"
+    }
+  },
+  {
+    "name": "Party3",
+    "start_time": 1551039270440,
+    "end_time": 1551039432489,
+    "owners" : [
+      {
+        "name": "the party 3 people",
+        "members": [
+          {
+            "name": "Alice"
+          },
+          {
+            "name": "Steph"
+          }
+        ]
+      }
+    ],
+    "location": {
+      "line1" : "812 Roosevelt way NE",
+      "city": "Seattle",
+      "state": "WA",
+      "postal_code": "98105"
+    }
+  },
+  {
+    "name": "Party4",
+    "start_time": 1551039270440,
+    "end_time": 1551039570197,
+    "owners" : [
+      {
+        "name": "the party 4 people",
+        "members": [
+          {
+            "name": "John"
+          }
+        ]
+      }
+    ],
+    "location": {
+      "line1" : "600 Roosevelts way NE",
+      "city": "Seattle",
+      "state": "WA",
+      "postal_code": "98105"
+    }
+  }
+]

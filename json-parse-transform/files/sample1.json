@@ -1,0 +1,51 @@
+[
+  {
+    "name": "joachim",
+    "email": "test@test.com",
+    "friends": [
+      {
+        "name": "person1",
+        "email": "sup@sup.com"
+      },
+      {
+        "name": "person2",
+        "email": "sup1@sup.com"
+      },
+      {
+        "name": "person3",
+        "email": "sup2@sup.com"
+      },
+      {
+        "name": "person4",
+        "email": "sup3@sup.com"
+      }
+    ]
+  },
+  {
+    "name": "joachim2",
+    "email": "test2@test.com",
+    "friends": [
+      {
+        "name": "person5",
+        "email": "sup1@sup.com"
+      },
+      {
+        "name": "person6",
+        "email": "sup4@sup.com"
+      },
+      {
+        "name": "person7",
+        "email": "sup7@sup.com"
+      },
+      {
+        "name": "person8",
+        "email": "sup8@sup.com"
+      }
+    ]
+  },
+  {
+    "name": "joachim3",
+    "email": "test3@test.com",
+    "friends": []
+  }
+]
